@@ -41,7 +41,7 @@ February 2004
 Data Science Certificate (ongoing)  
 Iowa State University, Ames, IA
 </font>  
-<br><br>
+<br>
 <font size="5"> **Projects:**
 <br><br>
 Pavement Data Analysis – Used Python script to mimic the Federal Highway Administration’s computation procedure for pavement condition measures, performed basic data exploratory analysis and summarized descriptive statistics to identify the cause of an unusual increase in pavement condition.  
